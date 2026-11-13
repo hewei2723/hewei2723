@@ -1,17 +1,16 @@
-<p align="center">
-  <img src="./assets/after-hours.gif" width="800" alt="hewei2723 · After Hours · Mostly harmless. Occasionally compiles." />
-</p>
+## Hi there 👋
 
-<p align="center">
-  <img src="./assets/midnight-snack.gif" width="800" alt="Midnight Snack: a pixel snake eats four tiny icons. I was told these were bugs." />
-</p>
+<!--
+**hewei2723/hewei2723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<details>
-<summary>🕹️ Insert coin</summary>
+Here are some ideas to get you started:
 
-```text
-> insert coin
-This machine only accepts bugs.
-```
-
-</details>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
